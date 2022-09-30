@@ -1,6 +1,7 @@
 """
+Main code for the white masses segmentation project 
+Image Processing Toolbox at 'Les Mines de Saint-Etienne'
 Deadline : 22/05/21
-
 """
 
 import numpy as np 
