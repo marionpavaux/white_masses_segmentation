@@ -10,12 +10,18 @@ The data (input video) has to remain private.
 
 ## Use the code
 
-1. create an appropriate environment using conda
-   `conda create -f environment.yml`
-2. activate environment
-   `conda activate sluglines_env`
-3. run on your data
-   `python main.py`
+1. create an appropriate environment using conda :
+   ```bash
+   conda create -f environment.yml
+   ```
+2. activate environment :
+   ```bash
+   conda activate sluglines_env
+   ```
+3. run on your data :
+   ```bash
+   python main.py
+   ```
 
 ## Report
 
